@@ -1,6 +1,6 @@
 {
     "name": "Drink Water",
-    "description": "Build an Extension!",
+    "description": "Reminder to stay hydrated!",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
