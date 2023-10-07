@@ -31,7 +31,7 @@ function createAlarm() {
         "drink_water",
         {
             delayInMinutes: 1,
-            periodInMinutes: 1
+            periodInMinutes: 60
         }
     );
 }
